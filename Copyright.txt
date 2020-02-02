@@ -1,0 +1,11 @@
+Soucode ini dibangun dan dirancang oleh:
+
+Programmer: Chaizir Maulana
+Tahun 	  : 2017
+Website   : www.chaizir.com
+Email     : maulana@chaizir.com
+Lisensi   : OpenSource
+
+NB: Anda boleh menyebarluaskan dan mengembangkan sourcode ini!
+
+-Semoga Bermanfaat-
